@@ -22,7 +22,7 @@ Puoi anche visualizzare la [mappa completa](/_mappa-argomenti-di-informatica-5-C
                 - [DBMS](/conoscenza-delle-tecnologie/archiviazione-permanente/basi-di-dati/relazionali/DBMS/README.md)
             - Non Relazionali
     - Linguaggi di programmazione
-        - [WPF](/linguaggi-di-programmazione/WPF/README.md)
+        - [WPF](/conoscenza-delle-tecnologie/linguaggi-di-programmazione/wpf/README.md)
 - Pensiero computazionale
 
 ## Licenza
