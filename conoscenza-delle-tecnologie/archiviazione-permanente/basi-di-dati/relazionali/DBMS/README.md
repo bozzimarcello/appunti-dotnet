@@ -1,8 +1,8 @@
-# WPF
+# DBMS
 
 ## Questo argomento nella mappa
 
-> \appunti-di-informatica\conoscenza-delle-tecnologie\archiviazione-permanente\basi-di-dati\relazionali\DBMS
+> /appunti-di-informatica/conoscenza-delle-tecnologie/archiviazione-permanente/basi-di-dati/relazionali/DBMS
 
 ## Sommario appunti sui DBMS
 
