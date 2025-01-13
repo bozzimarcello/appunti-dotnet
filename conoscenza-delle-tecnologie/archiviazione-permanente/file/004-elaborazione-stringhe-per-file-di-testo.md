@@ -83,7 +83,7 @@ using (FileStream fileStream = new FileStream("studenti.txt", FileMode.Open, Fil
         // Uso dei dati dell'header
 
         string riga;
-        while ((riga = reader.ReadLine()) != null)
+        while (reader.EndOfStream == false)
         {
             string riga = reader.ReadLine(); // legge una riga dati
             string[] campi = riga.Split(',');
