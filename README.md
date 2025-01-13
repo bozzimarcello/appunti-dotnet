@@ -16,7 +16,7 @@ Puoi anche visualizzare la [mappa completa](/_mappa-argomenti-di-informatica-5-C
 - Competenze trasversali
 - Conoscenza delle tecnologie
     - Archiviazione permanente
-        - File
+        - [File](/conoscenza-delle-tecnologie/archiviazione-permanente/file/README.md)
         - Basi di dati
             - Relazionali
                 - [DBMS](/conoscenza-delle-tecnologie/archiviazione-permanente/basi-di-dati/relazionali/DBMS/README.md)
